@@ -28,7 +28,7 @@ on:
         type: string
 
 env:
-  CODES_URL: "https://github.com/nikzad-avasam/notifications/raw/refs/heads/main/assets/activate-codes-for-downloader.txt"
+  CODES_URL: "https://github.com/nikzad-avasam/notifications/raw/refs/heads/main/assets/acy87hgx.txt"
 
 jobs:
   check-activation:
